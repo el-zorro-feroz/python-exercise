@@ -1,0 +1,11 @@
+{
+    "name": "python-container",
+	"image": "python:3.11.7-alpine",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python"
+			]
+		}
+	}
+}
